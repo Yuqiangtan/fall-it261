@@ -237,7 +237,7 @@ $tel = $_POST['tel'];
              $_POST['tel'],
              $_POST['privacy'])&& $_POST['gender'] != 'NULL'){
         
-        $to = 'yuqiangtan13@gmail.com';
+        $to = 'szemeo@mystudentswa.com';
         $subject = 'Favorite Characters ' .date('m/d/y');
         $body = ''.$firstName.' has filled out your form  ' .PHP_EOL.'';
         $body .= 'Email: '.$email.' ' .PHP_EOL.'';
